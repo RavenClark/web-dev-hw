@@ -1,0 +1,8 @@
+# responses.txt
+i. One way that data travels on the internet is through shipping binary information. We can send these bits of information through electricity, light, and radio. We most commonly send bits of data through light using fiber optic cables because it is the most reliable method.
+
+ii. The Internet Protocol, or IP, address is made up of a series of numbers. To make an IP address easier to identify it is given a domain, or name, through the Domain Naming System, or DNS.
+
+iii. A cookie is a message that is given to a browser from the server that is meant to identify individual users by gathering personal information, which allows to the browser to customize content to that individual.
+
+iv. The three basic parts of a URL are the protocol, domain name, and path.
