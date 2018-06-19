@@ -1,0 +1,5 @@
+An area for class notes.
+
+This is a new line.
+
+My [course notes](./notes.txt)
