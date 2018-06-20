@@ -6,4 +6,4 @@
 
   My work cycle for this assignment was rather consistent. I found myself referring back to the HTML cheatsheet a lot, but am hoping as I continue working that I will start to memorize tags. One thing I had a bit of trouble with is ordering my document in the correct manner in terms of spacing- I definitely need to work on that.
 
-  <img src="/web-dev-hw/assignment-3/images/screenshot_a3.png"/>
+  ![Progress screenshot](/images/screenshot_a3.png)
