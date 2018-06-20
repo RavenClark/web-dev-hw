@@ -5,4 +5,4 @@ A version control system is a software source control manager that allows for pr
 
 My work cycle went relatively smoothly for this assignment. All of this information is very new to me, so I have been re-reading all of the course material, but I think I am beginning to get the hang of it.
 
-![Progress screenshot](.screenshot_a2.png)
+![Progress screenshot](./screenshot_a2.png)
