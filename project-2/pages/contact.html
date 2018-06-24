@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <title>project-2</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="project-2">
+  <meta name="author" content="Raven Clark">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background-color: PeachPuff;
+      text-align: center
+    }
+
+    h1 {
+      color: DarkSalmon
+    }
+
+    .container {
+      background-color: white;
+      width: 600px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid black;
+    }
+
+    .contact-me {
+      text-align: left;
+      width: 100%;
+    }
+  </style>
+
+  <body>
+    <h1>Contact Me</h1>
+    <a href="../index.html">Back to Home |</a>
+    <a href="./about.html">About</a>
+    <hr />
+    <div class="container">
+      <p>
+        For more information about paper cranes, or if you have questions/comments contact me.
+      </p>
+      <form action="https://www.example.com" method="get" class="contact-me">
+        <p>
+          E-mail:
+          <input type="text" name="email" placeholder="you@site.com" autofocus/>
+        </p>
+        <p>Contact Type:</p>
+        <input type="radio" name="level" value="question" checked /> Question
+        <br />
+        <input type="radio" name="level" value="comment" /> Comment
+        <br />
+        <input type="radio" name="level" value="info" /> More information
+        <p>
+          Questions or Comments:
+          <br />
+          <textarea name="comments" id="test-textarea" cols="96" rows="10">Enter up to 500 characters...</textarea>
+        </p>
+        <input type="submit" name="submit" value="Submit" />
+    </div>
+
+  </body>
