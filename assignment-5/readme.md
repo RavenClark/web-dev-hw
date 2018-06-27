@@ -6,4 +6,4 @@ You might consider third-party over self-hosted media because self-hosted media 
 
 My work cycle for this assignment was more challenging than the last projects. The media linked in the assignment wasn't opening for me so I had to find the included media online. (I hope it is all the right media!) In addition, I was unable to preview my work in atom, so that set me back initially. I enjoyed learning how to embed different types of media because that is an important element of a user friendly site.
 
-![Progress screenshot](images/screenshot-a6.png)
+![Progress screenshot](./images/screenshot-a6.png)

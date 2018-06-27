@@ -6,4 +6,4 @@ My color palette is in alignment with the Midcentury modern themes. I chose more
 
 My work cycle for this project was pretty consistent. I struggled a bit finding unique ways to style my page, but I hope with more practice I will be able to improve my designs.
 
-![Progress screenshot](images/screenshot_a5.png)
+![Progress screenshot](images/screenshot-a6.png)
