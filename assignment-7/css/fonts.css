@@ -1,0 +1,21 @@
+@font-face {
+   font-family: 'PlayfairDisplay';
+   src: url('../fonts/PlayfairDisplay-Regular.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+h1 {
+  font-size: 2em;
+  letter-spacing: 3px;
+  margin-bottom: 0em;
+  color: #244021;
+  font-family: 'Alice', serif;
+}
+h3 {
+  font-size: 1em;
+  letter-spacing: 3px;
+  margin-bottom: 0em;
+  color: black;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
